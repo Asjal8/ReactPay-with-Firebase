@@ -9,7 +9,7 @@ const AboutUs = () => {
       <section className="common-section our-services">
         <div className="container mb-5">
           <div className="row">
-            <div className="col-12 col-lg-5 text-center">
+            <div className="col-12 col-lg-5 text-center our-service-leftside-img">
               <img src="./images/hero3.jpg" alt="aboutusImg" />
             </div>
             <div className="col-12 col-lg-7 our-services-list">
@@ -63,7 +63,7 @@ const AboutUs = () => {
               })}
               <button className="btn-style btn-style-border">learn more</button>
             </div>
-            <div className="col-12 col-lg-5">
+            <div className="col-12 col-lg-5 our-service-rightside-img">
               <img src="./images/callcenter.jpg" alt="aboutusImg" />
             </div>
           </div>
