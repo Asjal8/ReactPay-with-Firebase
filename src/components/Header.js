@@ -20,7 +20,7 @@ const Header = () => {
               <div className="input-group mt-3">
                 <input
                   type="text"
-                  className="rounded-pill w-75  w-lg-75 me-3 p-2 form-control-text"
+                  className="rounded-pill w-50  w-lg-75 me-3 p-2 form-control-text"
                   placeholder="Enter Your Email"
                 />
                 <div className="input-group-button">Get it now</div>
